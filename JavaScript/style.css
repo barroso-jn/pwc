@@ -1,0 +1,12 @@
+
+#button {
+    text-align:center;
+}
+.button1{
+        text-align: center;
+        background-color: #078783 ;
+        height: 50px;
+        width: 100px;
+        border-radius: 5px;
+        display: inline-block;
+}
